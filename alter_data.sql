@@ -1,0 +1,1 @@
+alter table student add constraint FK_STUDENT_OCENKA foreign key (id) references ocenka;
